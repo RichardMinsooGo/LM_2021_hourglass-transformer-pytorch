@@ -1,4 +1,4 @@
-<img src="./hourglass.png" width="500px"></img>
+<img src="./hourglass.png" width="800px"></img>
 
 ## Hourglass Transformer - Pytorch
 
